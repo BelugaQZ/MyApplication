@@ -50,4 +50,9 @@
         android:ems="10"
         android:inputType="textEmailAddress"
         android:text="Email"/>
+
+    <CalendarView
+        android:id="@+id/calendarView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
 </LinearLayout>
